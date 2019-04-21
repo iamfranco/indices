@@ -48,4 +48,6 @@ list = [ 'Student Finance England (SFE) - Me',
 'IKEA (Me)',
 'MyO2 (Me)',
 'Tesco Login and Clubcard',
+'PayPal',
+'Prolific.ac',
 ];
