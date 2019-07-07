@@ -51,4 +51,5 @@ list = [ 'Student Finance England (SFE) - Me',
 'PayPal',
 'Prolific.ac',
 'Circle Pay',
+'Royal London',
 ];
