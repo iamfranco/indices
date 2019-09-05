@@ -55,4 +55,5 @@ list = [ 'Student Finance England (SFE) - Me',
 'Government Gateway',
 'Monzo Bank',
 'Marcus Bank',
+'Vanguard',
 ];
