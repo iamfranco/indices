@@ -56,4 +56,6 @@ list = [ 'Student Finance England (SFE) - Me',
 'Monzo Bank',
 'Marcus Bank',
 'Vanguard',
+'Dad\'s NUC',
+'ebay',
 ];
